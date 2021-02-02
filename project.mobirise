@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 145,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -148,7 +148,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "header1",
@@ -195,7 +195,7 @@
           "_anchor": "footer1-m",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -535,56 +535,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"pay.html\" data-toolbar=\"-mbrBtnMove\"><strong>DONATE NOW</strong></a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "YOUR LITTLE DONATION IS ALL ONE KID NEEDS TO SURVIVE OUT THERE"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-s",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kellzbrowny@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -685,7 +635,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -697,7 +647,7 @@
           "_anchor": "footer1-15",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1057,7 +1007,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1223,7 +1173,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1235,7 +1185,7 @@
           "_anchor": "footer1-1g",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1489,7 +1439,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -1621,7 +1571,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "header1",
@@ -1835,7 +1785,7 @@
           "_anchor": "footer1-1p",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1858,7 +1808,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"pay.html\" data-toolbar=\"-mbrBtnMove\">SPREAD THE LOVE</a> "
         },
         {
           "_styles": {
@@ -1998,7 +1948,7 @@
           "title3": "ADOPT A CHILD",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Become part of a child’s live forever with a $15 monthly donation. By adopting a child you will be guaranteeing the future and wellbeing. This Donations help us buy food and medicine, support accommodations, as well as education and training. Most importantly of all, it rescues helpless Kids from hopeless situations<br><br> ",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><strong>Donate Now</strong></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"team.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><strong>Donate Now</strong></a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -2064,7 +2014,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2123,10 +2073,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2195,7 +2145,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "header1",
@@ -2239,7 +2189,7 @@
           "_anchor": "footer1-1y",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2283,11 +2233,68 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "ADOPT A CHILD TODAY",
           "text": "Be the reason a child out there is Smilling hopefully knowing each day that &nbsp;comes by<br>brings him a step closer to realizing his Dream, become that family he never had",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"adopt.html\" data-toolbar=\"-mbrBtnMove\">ADOPT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3k",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "ADOPTION FORM",
+          "subtitle": "Shape the future of an entire generation.",
+          "form": {
+            "action": "kellzbrowny@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_inherit": "header2",
@@ -2348,56 +2355,6 @@
           "title": "We are body of all Genders,Race and Ethnicity",
           "text": "<b>The VISION is the same, to transforming africa's internally displaced kids, homeless and hopeless children from the hard condition of life to\nas little as we can provide a life worth living</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>VOLUNTEER</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-24",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kellzbrowny@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -2495,7 +2452,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -2507,7 +2464,7 @@
           "_anchor": "footer1-26",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2636,7 +2593,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -2767,7 +2724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -2779,7 +2736,7 @@
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3187,7 +3144,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -3314,7 +3271,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -3326,7 +3283,7 @@
           "_anchor": "footer1-2i",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3355,17 +3312,17 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ahr0chm6ly9zmy1lds13zxn0lteuyw1hem9uyxdzlmnvbs92axbwew5vcmrpyy8xmdqwmc9pbwfnzxmvcghvdg9zlzu2ntmxntmwymrmmtguanbn-e1559131967201-2000x1264.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.9",
             "overlayColor": "#222",
             "inverse": true,
             "showButtons": false,
@@ -3439,7 +3396,7 @@
           "title1": "Gibril Mary",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Gibril Mary lives with his father and grandparent in a remote village in the northern province of the country. He is a Themneh by tribe and they practice the Christian faith. The family dwells in a mud brick house roofed with zinc. He sleeps with his grandmom on a local stick bed with grass mattress and thick cloth for covering. The father do small scale farming, he grows rice, cassava and vegetables for their feeding. The wife is a student attending high school in the provincial headquarter town. The combined annual income of US $ 219.00 is not enough to cater for the basic needs of the family. Gibril is in good health and enjoys playing with local toys at home<br><b>Country: Sierra Leone</b><br> ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ll-600x783.jpg",
@@ -3455,7 +3412,7 @@
           "title2": "Mohamed",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Mohamed is a little boy from the Limba ethnic group and he practices the Muslim faith. He lives with his sister and parents in a two bed room mud brick house roof with old zinc. He is very friendly and sleeps on a locally made wooden bed with his sibling. His favorite game is football. His parents are Peasant farmers whose annual income is about US$ 260.00 which can hardly take them through the year. He is healthy and very active. His family status will improve grately if you choose him as your sponsored chid.<br><b>Country: Sierra Leone</b><br> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/dr-600x783.jpg",
@@ -3471,7 +3428,7 @@
           "title3": "Jeneba",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Jeneba is from the Limba ethnic group. She lives in a small village surrounded by rocky hills, farm bushes and vast grassland in the north of the country with her parents and siblings. Her parents are subsistence farmers. They grow their crops mainly for home consumption and sell little to augment their other basic needs. Their annual income of US$ 133 is not adequate to meet the basic needs of the family. Jeneba parents share a single room with all the children and they sleep on a local mattress with poor beddings. Her mother manages to prepare two meals a day. She is a warm and obedient small girl who gets on well with her peers. She is not yet in school. She enjoys playing Local games with her peers. She is in good health<br><b>Country: Sierra Leone</b><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nn-600x783.jpg",
@@ -3487,7 +3444,7 @@
           "title4": "Haddy Cham",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Haddy Cham is being raised a Muslim and comes from the “Serereh” tribe one of the smallest ethnic groups in the Gambia. They live in a district called kombo east in western part of the country in a small village. She has one sister and one brother. Her mother is a vegetable gardener.  She uses some of her products for family consumptions and sells the rest for other basics. Her farther embarks on fishing. The family annual income is approximately US$: 300.00 and this cannot support this child’s education and that of the other needs of the family. She needs additional support to achieve quality education. She is in good health and active. She is not yet enrolled to school because of her age. She likes playing with baby dolls.   She is in good health<br><b>Country: The Gambia</b><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -3626,7 +3583,7 @@
           "title1": "Ngorok",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Ngorok  is a young lovely girl who comes from Turkana County in the Northern Kenya.  She lives with her parents, one sister and one brother.  They live in a simple, grass-thatched house with mud walls. The family gets water from a nearby river. The water is not safe for drinking. The father is the main breadwinner of the family, who washes other people’s cars to meet the family needs. The family’s annual income is less than US $ 360, which is not enough to cater for family basic needs. The mother approached the project for assistance. Ngorok is not of school- going age and she likes playing with dolls made of local materials. Your sponsorship will be of great help to this lovely girl and the family<br>&nbsp;<b>Country: Kenya</b><br> ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jj-600x783.jpg",
@@ -3642,7 +3599,7 @@
           "title2": "&nbsp;Cheikh",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Cheikh is a joyful and adorable little boy. He studies in the village Arabic school where he is doing well. After school, he enjoys playing different games with his friends. At home, he is helpful with small errands which he runs with so much pride. Cheikh lives with his parents and siblings in a village located in the central part of the country. They live in a family house which they share with other close relatives. His father owns a small business whereas his mother is a brave housewife who stays at home to do the house chores and take care of the family. The family’s low income of US $ 600.00 is not enough to solve their most pressing needs. Your sponsorship will certainly contribute to changing this child’s living conditions and give him access to a good education and health care<br><b>Country: Senegal</b><br> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/llp-600x783.jpg",
@@ -3658,7 +3615,7 @@
           "title3": "Titus",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Titus is a friendly young boy who lives in an extended family in northern part of Uganda. He is attending early child hood education and he loves drawing pictures. His ambition is to become a teacher if all goes well and he can now count one up to ten. He moves to school on foot for about 3 kilometres on foot and sometimes if he feels very tired, he does not go. This has made him to be irregular at school and miss some important lessons that could help him grow up well. His father is a peasant farmer who practice small scale farming in order to provide food for the family. This is sometimes so challenging since the harvest is usually poor because of using rudimentary farming method besides serious pests and diseases alongside climatic changes that leads to drought and sometimes heavy down pour that results into floods. This has left Titus with inadequate basic needs that could have helped him to thrive through his childhood very well<br><b>Country: Uganda</b><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jjff-600x783.jpg",
@@ -3674,7 +3631,7 @@
           "title4": "Jesca",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Jesca lives with her parents and siblings in one of the remote villages in Northern Uganda in absolute poverty and she lives in a family where all the siblings and parents share the same grass thatched house made up of mud. Her parents are peasant farmers and as such, they do not have the capacity to provide all the basic needs to the entire family members including Jesca because they cannot even afford to have 1US dollar a day to feed the family members. This condition has made life so difficult for them. Jesca needs to study and become a Nurse but this may not be possible with the condition of her parents. Your desire to sponsor Jesca will be an opportunity not only for her but her entire family<br><b>Country: Uganda</b>.&nbsp;<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"adopt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADOPT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -3699,56 +3656,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-2j",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#282828",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kellzbrowny@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -3771,7 +3678,7 @@
           "_anchor": "msg-box8-33",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/0-uganda-charity-trip-2000x1330.jpg",
@@ -3788,8 +3695,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Donors Leaderboad",
+          "text": "<p>WE Love to celebrate all those who have made it seamlessly easy for this kids to Smile &nbsp;hopefully, knowing after each dawn knowing a future awaits them&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -3843,7 +3750,7 @@
           },
           "title": "A Better africa is all we deserve",
           "text": "by promoting health and education, and supporting impoverished families. Akon has always steadily seen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Akon.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -3901,7 +3808,7 @@
           },
           "title": "Together we &nbsp;can make Africa Great&nbsp;",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"adopt.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -3990,7 +3897,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
         },
         {
           "_name": "footer1",
@@ -4002,7 +3909,7 @@
           "_anchor": "footer1-2v",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4065,7 +3972,7 @@
           },
           "title": "Bonding Beyond Race",
           "text": "Mr Brandon has been on our donors leaderboard for the past three years consistently contributing to the &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Jason.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -4126,7 +4033,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"adopt.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -4146,7 +4053,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n14 Lome Layout<br>Jakar, 500211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.mil<br>\nPhone: +234 (0) 810 3828885<br>\nFax: +1 (0) 000 0000 002",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -4177,6 +4084,694 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        }
+      ]
+    },
+    "Jason.html": {
+      "settings": {
+        "title": "Jason Brandon",
+        "meta_descr": "Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly and majority of times through donations"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3o",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aftw-white-txt-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-3p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3r",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20210131-wa0002-1400x1734.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Jason Brandon",
+          "text": "Mr Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly  and majority of times through donations <br><br>He has been a big part of our family with a donation goal of Eighty<br>Six Thousand Dollars targeted at promoting health and education, and supporting impoverished families. Jason has always steadily seen that the vision remains unthugged or wavering with a strong donor base has assisted in joint community projects in Senegal, Nigeria, Algeria and Cameroon and has pledged to remain a mentor and father to unite these great one and give them beyond <br>hope to build a better nations and help build the Africa of tomorrow<br><br>Thank You Mr Brandon",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "title": "Jason Brandon",
+        "meta_descr": "Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly and majority of times through donations"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3v",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aftw-white-txt-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-3w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3x",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20210131-wa0002-1400x1734.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Jason Brandon",
+          "text": "Mr Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly  and majority of times through donations <br><br>He has been a big part of our family with a donation goal of Eighty<br>Six Thousand Dollars targeted at promoting health and education, and supporting impoverished families. Jason has always steadily seen that the vision remains unthugged or wavering with a strong donor base has assisted in joint community projects in Senegal, Nigeria, Algeria and Cameroon and has pledged to remain a mentor and father to unite these great one and give them beyond <br>hope to build a better nations and help build the Africa of tomorrow<br><br>Thank You Mr Brandon",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "title": "Jason Brandon",
+        "meta_descr": "Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly and majority of times through donations"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aftw-white-txt-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-3z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-40",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20210131-wa0002-1400x1734.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Jason Brandon",
+          "text": "Mr Brandon has been on our donors leaderboard for the past three years consistently contributing to the betterment of the African communities directly  and majority of times through donations <br><br>He has been a big part of our family with a donation goal of Eighty<br>Six Thousand Dollars targeted at promoting health and education, and supporting impoverished families. Jason has always steadily seen that the vision remains unthugged or wavering with a strong donor base has assisted in joint community projects in Senegal, Nigeria, Algeria and Cameroon and has pledged to remain a mentor and father to unite these great one and give them beyond <br>hope to build a better nations and help build the Africa of tomorrow<br><br>Thank You Mr Brandon",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "Akon.html": {
+      "settings": {
+        "title": "Akon",
+        "meta_descr": "Charitable Giving has always be one major way to defusing the trailing severity of poverty in african communities and here are our Heroes who have endlessly contributed to making all of this projects a success."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aftw-white-txt-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"team.html\">PROJECTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Volunteer</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"donors.html\" aria-expanded=\"false\">DH<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"usuables.html\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>PROJECTS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-3t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3u",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ads-flyer3-1400x839.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Badara Akon",
+          "text": "Akon also started a project Akon Lighting Africa in 2014 <br><span style=\"font-size: 1.07rem; line-height: 1.5;\">which provides electricity in 15 countries of Africa.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br>He also launched his own charity for underprivileged children in Africa called Konfidence Foundation but has continued funding for 3 adopted kids with Africa to The World <br><br>Akon was included as a guest appearance in Pitbull's \"I Believe That We Will Win (World Anthem)\" official music video, in which all proceeds from the song's sales, streaming and views are being donated to Feeding America and the Anthony Robbins Foundation as relief to those affected by the COVID-19 pandemic<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
